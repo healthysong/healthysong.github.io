@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/forblog/posts/1_how_to_approach_creating_ai_models.html",
+      "/web_apps/apps/coming_soon.html"
+    ]
+  },
+  {
+    "listing": "/web_apps/index.html",
+    "items": [
+      "/web_apps/apps/coming_soon.html"
+    ]
+  },
+  {
+    "listing": "/notes/index.html",
+    "items": [
+      "/notes/posts/1_how_to_approach_creating_ai_models.html"
+    ]
+  },
+  {
+    "listing": "/forblog/index.html",
+    "items": [
+      "/forblog/posts/1_how_to_approach_creating_ai_models.html"
+    ]
+  }
+]

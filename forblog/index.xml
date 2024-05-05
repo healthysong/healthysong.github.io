@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>healthysong</title>
+<link>https://healthysong.github.io/forblog/</link>
+<atom:link href="https://healthysong.github.io/forblog/index.xml" rel="self" type="application/rss+xml"/>
+<description>小径分叉的花园!</description>
+<image>
+<url>https://healthysong.github.io/images/profile.png</url>
+<title>healthysong</title>
+<link>https://healthysong.github.io/forblog/</link>
+</image>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sun, 05 May 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>BEV算法基础解读</title>
+  <dc:creator>healthysong </dc:creator>
+  <link>https://healthysong.github.io/forblog/posts/1_how_to_approach_creating_ai_models.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>BEV</category>
+  <guid>https://healthysong.github.io/forblog/posts/1_how_to_approach_creating_ai_models.html</guid>
+  <pubDate>Sun, 05 May 2024 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
